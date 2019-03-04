@@ -93,6 +93,10 @@ p::first-letter {
 	text-transform: uppercase;
 }
 
+.centerText{
+	text-align: center; 
+}
+
 h2 {
 	width: 100%; 
 	text-align: center; 
@@ -100,7 +104,7 @@ h2 {
 	line-height: 0.1em;
 	margin: 10px 0 20px; 
  } 
- 
+
  h2 span { 
 	 background:#fcb177; 
 	 padding:0 12px; 
