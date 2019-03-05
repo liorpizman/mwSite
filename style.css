@@ -36,6 +36,16 @@
   }
 }
 
+.footer {
+  /*position: fixed;
+  left: 0;
+  bottom: 0;*/
+  width: 100%;
+  background-color: #fce196;
+  color: black;
+  text-align: center;
+}
+
 div {
   resize: both;
   overflow: auto;
@@ -191,7 +201,7 @@ h2 {
 	padding-top: 0.5em;
 	padding-bottom: 2em;
 	border-radius: 5px;
-  background-color: white;
+  background-color:  #fce196;;
   padding: 10px;
  }
 
